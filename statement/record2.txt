@@ -1,0 +1,12 @@
+009 mikel 75
+010 emeka 75
+011 esther 75
+001 mikel 75
+002 emeka 75
+003 esther 75
+004 joseph 75
+005 ebuka 75
+007 dele 75
+008 bola 75
+009 zele 75
+010 fola 75
